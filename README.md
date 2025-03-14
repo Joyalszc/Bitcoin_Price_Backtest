@@ -1,4 +1,4 @@
-# Bitcoin_Price_Backtest
+# Bitcoin_Price_Backtest_Using_Excel
 
 In this project, I’m showing some basics of how to backtest Bitcoin data in Excel in order to understand the market, find trends and to place smarter orders.
 
